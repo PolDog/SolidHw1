@@ -1,4 +1,4 @@
-package homework;
+package homework.model;
 
 public class User{
     private final String name;

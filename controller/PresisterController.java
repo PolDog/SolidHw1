@@ -1,4 +1,7 @@
-package homework;
+package homework.controller;
+
+import homework.service.PresisterService;
+import homework.model.User;
 
 public class PresisterController {
     PresisterService service= new PresisterService();

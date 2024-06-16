@@ -1,4 +1,7 @@
-package homework;
+package homework.service;
+
+import homework.model.Persister;
+import homework.model.User;
 
 public class PresisterService {
     Persister persister = new Persister();

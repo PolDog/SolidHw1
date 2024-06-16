@@ -1,4 +1,7 @@
-package homework;
+package homework.view;
+
+import homework.controller.PresisterController;
+import homework.model.User;
 
 public class PresisterView {
     public void start() {
